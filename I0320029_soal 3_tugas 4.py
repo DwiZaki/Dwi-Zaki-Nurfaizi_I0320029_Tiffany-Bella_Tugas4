@@ -5,5 +5,4 @@ def koper():
         print(True, ". Diperbolehkan masuk")
     else:
         print(False, ". Tidak diperbolehkan masuk")
-
 koper()
